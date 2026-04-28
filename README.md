@@ -1,7 +1,5 @@
 # 🛒 Sistema de Carrinho de Compras (Java)
 
-🚧 **Status: Em desenvolvimento**
-
 Aplicação em Java que simula um sistema de carrinho de compras no terminal. Este projeto está sendo desenvolvido de forma incremental com o objetivo de praticar lógica de programação e evoluir gradualmente para conceitos mais avançados.
 
 ---
