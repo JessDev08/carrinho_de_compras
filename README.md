@@ -23,19 +23,11 @@ Construir um sistema simples, evoluindo passo a passo, para consolidar:
 
 * Estrutura base do sistema
 * Menu interativo com `do-while`
-
-### 🔄 Em desenvolvimento
-
 * Adição de produtos (nome e preço)
 * Listagem de produtos
-
-### ⏳ Planejado
-
 * Cálculo do valor total
 * Remoção de produtos
-* Aplicação de desconto
-* Cálculo de média de preços
-
+* 
 ---
 
 ## 🧠 Conceitos trabalhados
