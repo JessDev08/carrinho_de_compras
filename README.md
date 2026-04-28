@@ -27,7 +27,6 @@ Construir um sistema simples, evoluindo passo a passo, para consolidar:
 * Listagem de produtos
 * Cálculo do valor total
 * Remoção de produtos
-* 
 ---
 
 ## 🧠 Conceitos trabalhados
